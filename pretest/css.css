@@ -1,0 +1,101 @@
+.posisirelatif {
+    position: relative;
+    margin-inline-start: 10px;
+}
+
+.gambar {
+    background-image: url("GitHub-Mark-64px.png");
+    vertical-align: text-top;
+}
+
+.pading {
+    padding-top: 32px !important;
+    padding-bottom: 15px !important;
+}
+
+.tulisan1 {
+    font-size: 23px;
+    text-align: center !important;
+    font-family: Arial;
+}
+
+.tultengah {
+    text-align: center;
+}
+
+.tulisan2 {
+    font-size: 13px;
+    font-family: Arial;
+}
+
+.tabel {
+    padding: 20px 16px;
+    width: 285px;
+    margin: auto;
+    border-radius: 6px 6px;
+    border: 1px solid #ebebeb;
+    background-color: #fafafa;
+    font-size: 14px;
+    font-family: arial;
+    margin-top: 16px !important;
+}
+
+.form {
+    width: 260px;
+    height: 27px;
+    border-radius: 5px;
+    border: 1px solid #ebebeb;
+    margin: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+p {
+    margin-block-start: 10px;
+    margin-block-end: 5px;
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+}
+
+.forget {
+    float: right;
+    font-size: 12px;
+    top: 0 !important;
+    right: 0 !important;
+    margin-right: 10px;
+}
+
+.buten {
+    width: 265px;
+    height: 29px;
+    border-radius: 5px;
+    border: 1px solid #ebebeb;
+    margin: 10px;
+    background-color: #2ea44f;
+    color: white;
+}
+
+.bawah {
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+    padding-right: 40px !important;
+    padding-left: 40px !important;
+    list-style: none!important;
+    justify-content: center!important;
+    display: flex!important;
+    font-size: 12px;
+    margin: auto;
+}
+
+.blek {
+    color: black;
+}
+
+a:-webkit-any-link {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.mr {
+    margin-right: 16px!important
+}
